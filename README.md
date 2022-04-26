@@ -3,7 +3,7 @@ This project is of a Chrome Extension that helps you save the links from your br
 
 # Project Layout
 
-![Capturar](https://user-images.githubusercontent.com/98706386/165325154-06db235a-faa2-42d1-bacb-778493daf43d.JPG)
+![Capturar](https://user-images.githubusercontent.com/98706386/165325503-b142e330-22d7-4eda-9c45-eadea269bc79.JPG)
 
 ![Capturar1](https://user-images.githubusercontent.com/98706386/165325215-7fbf18ad-9b18-4ce0-a00d-b03e930b66f3.JPG)
 
